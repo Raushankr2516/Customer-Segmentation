@@ -22,6 +22,7 @@ The project uses **RFM Analysis** to understand customer behavior, **K-Means Clu
 ## 📂 Dataset
 
 The project uses the `OnlineRetail_clean.csv` dataset.
+Note: The original OnlineRetail_clean.csv dataset is not included in this repository because of its large file size.
 
 The dataset contains online retail transaction information used to calculate customer-level RFM metrics.
 
@@ -124,7 +125,6 @@ Customer-Segmentation/
 │
 ├── 📓 Customer_Segmentation_Project.ipynb
 ├── 🐍 customer_segmentation_project.py
-├── 📊 OnlineRetail_clean.csv
 ├── 📄 Final_Customer_Segmentation.csv
 ├── 📖 README.md
 ├── 📦 requirements.txt
